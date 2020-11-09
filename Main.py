@@ -1,5 +1,6 @@
 import praw
 import random
+import config
 from os import getenv
 from discord.ext import commands
 
